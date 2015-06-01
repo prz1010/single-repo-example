@@ -1,2 +1,2 @@
 # single-repo-example
-## Hello from Paris
+## Hello from the beautiful city Paris
